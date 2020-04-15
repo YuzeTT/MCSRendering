@@ -15,7 +15,7 @@ Minecraft 皮肤 3D 渲染
 3.如果无法打开，请配置Java环境变量并使用CMD执行： `Java -jar <filename>`
 
 ## 什么是NameMC皮肤ID
-打开[NameMC](https://namemc.com/)，点击皮肤，您可以在网站的`/skin/`后看到它
+打开[NameMC](https://namemc.com/)，点击皮肤，您可以在网址的`/skin/`后看到它
    
 ## 开源许可
 该软件在 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) 开源许可下发布，附带附加条款。
