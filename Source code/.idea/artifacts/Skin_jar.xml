@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Skin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Skin_jar</output-path>
+    <root id="archive" name="Skin.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../pro/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Skin" />
+    </root>
+  </artifact>
+</component>

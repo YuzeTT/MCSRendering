@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+K:\Acode\Java\Skin\.metadata\.plugins\org.eclipse.jdt.core
+1233919542.index
+2899478204.index
+1942359185.index
+1241298325.index
+2492909726.index
+3421597620.index
+1860485910.index
+897659091.index
+3263897811.index
+2668089998.index
+3227056335.index
+1943575548.index
+144380394.index
+531533494.index
+4212195811.index
+3852737441.index
+202638269.index
+1401678300.index
+1845031563.index
